@@ -10,4 +10,4 @@ jobs:
           run: echo "hellow world"
         
         - name: Print Goodbye
-          run: rcho "Goodbye"
+          run: echo "Goodbye"
