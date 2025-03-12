@@ -1,7 +1,7 @@
 name: 2 - different inputs
 
 on: 
-    push:
+  # push:                   از روی پوش برداشتم که هر دفعه بیلد نشه
     # schedule:
     #     - cron: "*/5 * * * *"
     workflow_dispatch:
